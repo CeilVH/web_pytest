@@ -1,0 +1,23 @@
+---
+login_title:
+  - 'link_text'
+  - '登录'
+username:
+  - 'xpath'
+  - '//*[@placeholder="请输入手机号码"]'
+password:
+  - 'xpath'
+  - '//*[@placeholder="请输入密码"]'
+login_button:
+  - 'xpath'
+  - '//*[@class="index-module_loginBtn_2764V"]'
+login_wrap:
+  - 'xpath'
+  - '//*[@class="index-module_loginWrap_2kpfQ"]'
+to_home_button:
+  - 'xpath'
+  - '//*[@class="go-to-home"]'
+username_display:
+  - 'xpath'
+  - '//*[@class="member-phone"]'
+...
